@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DosyaOkuma", "DosyaOkuma\DosyaOkuma.csproj", "{6E98D6E7-A17E-4161-9E09-960C419C9D68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SatrancDosyasiGorsellestirme", "SatrancDosyasiGorsellestirme\SatrancDosyasiGorsellestirme.csproj", "{A0BC8F1C-AFBA-42BF-8596-EC4FE6897B3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E98D6E7-A17E-4161-9E09-960C419C9D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E98D6E7-A17E-4161-9E09-960C419C9D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E98D6E7-A17E-4161-9E09-960C419C9D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E98D6E7-A17E-4161-9E09-960C419C9D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0BC8F1C-AFBA-42BF-8596-EC4FE6897B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BC8F1C-AFBA-42BF-8596-EC4FE6897B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BC8F1C-AFBA-42BF-8596-EC4FE6897B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BC8F1C-AFBA-42BF-8596-EC4FE6897B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49106184-CACD-4F5C-97C4-D256AF6668EC}
+	EndGlobalSection
+EndGlobal
